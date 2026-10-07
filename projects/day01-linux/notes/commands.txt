@@ -1,0 +1,14 @@
+pwd       - Show current directory
+ls        - List files and folders
+ls -la    - List all files with details
+cd        - Change directory
+mkdir     - Create directory
+touch     - Create file
+cat       - Display file contents
+cp        - Copy
+mv        - Move/rename
+rm        - Delete
+clear     - Clear terminal
+whoami    - Show current user
+hostname  - Show computer name
+uname -a  - Show Linux system information

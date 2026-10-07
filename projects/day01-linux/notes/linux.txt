@@ -1,0 +1,13 @@
+
+DAY 1 - LINUX BASICS
+
+What is Linux?
+Linux is an open-source operating system.
+
+Topics learned:
+- Linux filesystem
+- Terminal
+- Files and directories
+- File permissions
+- Basic commands
+- Processes
