@@ -1,0 +1,109 @@
+DAY 2 — NETWORKING BASICS
+1. What is a network?
+A network is a group of devices connected together to communicate and share data.
+
+
+2. What is an IP address?
+An IP (Internet Protocol) address is a unique address used to identify a device on a network.
+
+
+3. What is a port
+A port is a number used to identify a specific service or application running on a device.
+
+
+4. What is DNS?
+DNS (Domain Name System) converts domain names into IP addresses.
+
+5. What is the difference between TCP and UDP?
+TCP (Transmission Control Protocol) is reliable and checks whether data is delivered correctly.
+
+UDP (User Datagram Protocol) is faster but does not guarantee delivery.
+
+TCP:
+- Reliable
+- Connection-oriented
+- Checks delivery
+- Retransmits lost data
+- More overhead
+
+UDP:
+- Faster
+- Connectionless
+- Does not guarantee delivery
+- Less overhead
+
+6. What is HTTP?
+HTTP (HyperText Transfer Protocol) is a protocol used for communication between a web browser and a web server.
+
+Default port: 80
+
+Remember:
+HTTP = Web communication.
+
+
+7. What is HTTPS?
+HTTPS (HyperText Transfer Protocol Secure) is the secure version of HTTP. It encrypts data exchanged between the browser and web server.
+
+Default port: 443
+
+Remember:
+HTTPS = HTTP + Security.
+
+
+8. What is SSH?
+SSH (Secure Shell) is a protocol used to securely connect to and control a remote computer over a network.
+
+Default port: 22
+
+Uses:
+- Remote Linux administration
+- Managing servers
+- Secure remote access
+
+
+9. What is the purpose of the OSI model?
+The OSI (Open Systems Interconnection) model is a 7-layer model used to understand how network communication works.
+
+The 7 layers are:
+
+7. Application
+6. Presentation
+5. Session
+4. Transport
+3. Network
+2. Data Link
+1. Physical
+
+Purpose:
+- Understand network communication
+- Divide networking into different layers
+- Help troubleshoot network problems
+
+Remember:
+OSI = 7 layers of network communication.
+
+
+10. What is the difference between an IP address and a port?
+An IP address identifies the device, while a port identifies the specific service or application running on that device.
+
+Example:
+192.168.1.10:22
+      ↑       ↑
+     IP      Port
+
+Easy analogy:
+IP Address = Building address
+Port       = Door inside the building
+
+QUICK REVISION:
+
+Network  → Connected devices
+IP       → Identifies a device
+Port     → Identifies a service
+DNS      → Domain name → IP
+TCP      → Reliable
+UDP      → Fast
+HTTP     → Web communication
+HTTPS    → Secure web communication
+SSH      → Secure remote access
+OSI      → 7-layer networking model

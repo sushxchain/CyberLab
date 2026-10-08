@@ -1,0 +1,8 @@
+| Command      | Purpose                      |
+| ------------ | ---------------------------- |
+| `ip`         | View network information     |
+| `ping`       | Test connectivity            |
+| `nslookup`   | Find domain's IP             |
+| `curl`       | Communicate with web servers |
+| `ss`         | Check connections and ports  |
+| `traceroute` | Trace network path           |
